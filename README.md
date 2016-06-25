@@ -3,7 +3,9 @@ Cricket Score form Cricbuzz
 
 
 
-Install : 1) Using pip
+Install : 
+
+          1) Using pip
 
              pip install cric_score
              
