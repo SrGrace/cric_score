@@ -11,7 +11,7 @@ Install : 1) Using pip
           
             git clone https://github.com/sourav0007/cric_score.git
             cd cric_score
-            python code_setup.py install
+            python setup.py install
             
             
             
