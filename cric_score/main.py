@@ -4,7 +4,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-url = "http://www.espncricinfo.com/ci/engine/match/index.html?view=live"
+url = "http://www.cricbuzz.com/cricket-match/live-scores"
 
 def open_url(url):
     return requests.get(url).text  # returns html
