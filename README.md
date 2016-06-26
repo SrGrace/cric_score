@@ -1,7 +1,12 @@
 # cric_score
-Cricket Score form Cricbuzz
+Live Cricket Scores form Cricbuzz
 
 
+Requirements :
+
+          1) requests  (pip install requests)
+          2) bs4 for BeautifulSoup (pip install bs4)
+          3) lxml  (pip install lxml)
 
 Install : 
 
@@ -19,6 +24,6 @@ Install :
             
             
 Usage :
-      
-      Simply run the following command 
-      __  circ_score
+
+          Simply run the following command 
+          __  circ_score
