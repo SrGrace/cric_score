@@ -1,3 +1,4 @@
+# Copyright Sourav Verma ABV_IIITMG
 #!/usr/bin/env python
 
 from setuptools import setup, find_packages
