@@ -25,5 +25,5 @@ Install :
             
 Usage :
 
-          Simply run the following command 
+          Simply run the following command: 
           __  circ_score
