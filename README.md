@@ -26,4 +26,4 @@ Install :
 Usage :
 
           Simply run the following command: 
-          __  circ_score
+          __  cric_score
